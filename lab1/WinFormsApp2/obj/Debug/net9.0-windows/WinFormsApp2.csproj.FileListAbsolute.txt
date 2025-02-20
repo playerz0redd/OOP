@@ -1,0 +1,17 @@
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+C:\WinFormsApp1\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Properties.Resources.resources
